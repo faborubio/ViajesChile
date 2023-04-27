@@ -1,6 +1,4 @@
-body {
-  background-color: black;
-}
+
 
 .navbar-nav {
   justify-content: space-between;
@@ -27,11 +25,19 @@ svg {
   background-color: rgb(68, 192, 250) ;
 }
 
-.card {
+.card-destacados {
   height: auto; /* altura automática */
   max-height: 500px; /* altura máxima */
   min-height: 370px;
 }
+
+#card-destacados2 img{
+  height: auto; /* altura automática */
+  max-height: 210px; /* altura máxima */
+  min-height: 100px;
+}
+
+
 
 footer {
   background-color: rgb(68, 192, 250) ;
