@@ -1,5 +1,4 @@
 
-
 .navbar-nav {
   justify-content: space-between;
   margin-right: 0;
@@ -46,9 +45,17 @@ svg {
   min-height: 100px;
 }
 
-
-
 footer {
   background-color: rgb(68, 192, 250) ;
 
+}
+
+i:hover{
+  color: rgb(0, 0, 0);
+  transition: 0.3 ease;
+}
+
+a:hover{
+  color: rgb(0, 0, 0);
+  transition: 0.3 ease;
 }
