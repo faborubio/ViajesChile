@@ -1,4 +1,8 @@
 
+body {
+  font-family: Raleway !important;
+}
+
 .navbar-nav {
   justify-content: space-between;
   margin-right: 0;
@@ -51,11 +55,6 @@ footer {
 }
 
 i:hover{
-  color: rgb(0, 0, 0);
-  transition: 0.3 ease;
-}
-
-a:hover{
   color: rgb(0, 0, 0);
   transition: 0.3 ease;
 }
