@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+.navbar-nav {
+  justify-content: space-between;
+  margin-right: 0;
+}
+
+svg {
+  width: 2rem ;
+  vertical-align: middle;
+  margin-left: 40px;
+}
+
+
+.carousel {
+  margin-top: -60px; /* ajusta la posición del carrusel debajo de la navbar */
+}
+
+
+.card .card-header{
+  background-color: rgb(68, 192, 250) ;
+}
+
+.card .destacados{
+  background-color: rgb(68, 192, 250) ;
+}
+
+.card {
+  height: auto; /* altura automática */
+  max-height: 500px; /* altura máxima */
+  min-height: 370px;
+}
+
+footer {
+  background-color: rgb(68, 192, 250) ;
+
+}
